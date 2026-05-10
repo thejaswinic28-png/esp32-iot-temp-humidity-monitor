@@ -29,7 +29,7 @@ This project is a cloud-connected IoT monitoring system built using ESP32 and DH
 
 ## Wokwi Simulation
 
-![Wokwi Simulation](https://github.com/thejaswinic28-png/esp32-smart-soil-moisture-monitor/blob/main/Simulation%20Images/Console.png)
+![Wokwi Simulation]()
 
 ---
 
